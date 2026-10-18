@@ -1,33 +1,33 @@
 # Estado da conta Google Ads (745-478-7405)
 
-> Última atualização: 17/10/2026.
+> Última atualização: 18/10/2026.
 
-## Campanhas novas — criadas e PAUSADAS
+## Campanhas novas — ATIVAS desde 18/10/2026
 
 | Campanha | ID | Status | Orçamento | Lance | Local | Programação |
 |---|---|---|---|---|---|---|
-| Pesquisa \| Técnicos Saúde \| Ubatuba 50km | 24361534218 | Pausada | R$ 34,50/dia | Maximizar cliques, CPC ≤ R$ 5,00 | 50 km de Ubatuba, Presença | Seg–Sex 08–22h |
-| Pesquisa \| Segurança \| Ubatuba 50km | 24361547010 | Pausada | R$ 14,80/dia | Maximizar cliques, CPC ≤ R$ 4,00 | 50 km de Ubatuba, Presença | Seg–Sex 08–22h |
+| Pesquisa \| Técnicos Saúde \| Ubatuba 50km | 24361534218 | Qualificada (aprendizado) | R$ 34,50/dia | Maximizar cliques, CPC ≤ R$ 5,00 | 50 km de Ubatuba, Presença | Seg–Sex 08–22h |
+| Pesquisa \| Segurança \| Ubatuba 50km | 24361547010 | Qualificada (aprendizado) | R$ 14,80/dia | Maximizar cliques, CPC ≤ R$ 4,00 | 50 km de Ubatuba, Presença | Seg–Sex 08–22h |
 
 - Rede: só Pesquisa do Google · Idioma: português · IA Max desligada.
-- 7 grupos, 1 RSA cada (status "Pendente" de análise do Google na criação).
+- 7 grupos, 1 RSA cada — todos "Qualificada"; força do anúncio "Pendente" até acumular impressões.
 - 17 negativas na campanha Saúde, 13 na Segurança.
 
-## Campanhas antigas — AINDA ATIVAS
+## Campanhas antigas — PAUSADAS em 18/10/2026
 
 | Campanha | Orçamento | Observação |
 |---|---|---|
-| CTS - Cursos Técnicos em Saúde - Ubatuba | R$ 20,00/dia | Pausar no dia em que as novas forem ativadas |
-| Matrículas - Radiologia e Enfermagem - Ubatuba | R$ 20,00/dia | Pausar no dia em que as novas forem ativadas |
+| CTS - Cursos Técnicos em Saúde - Ubatuba | R$ 20,00/dia | Pausada (substituída pelas novas) |
+| Matrículas - Radiologia e Enfermagem - Ubatuba | R$ 20,00/dia | Pausada (substituída pelas novas) |
 
-## Pendências antes de ativar
+## Pendências
 
 - [ ] Publicar as páginas por curso (ver `../site/landing-pages.md`).
-- [ ] Trocar a URL final dos 7 anúncios (hoje todos apontam para `https://ctsensino.com.br/`).
+- [ ] Trocar a URL final dos 7 anúncios — **as campanhas já estão rodando com a página inicial `https://ctsensino.com.br/`**, que não mostra os cursos. Prioridade máxima.
 - [ ] Instalar Google Tag/GTM e criar as conversões (ver `../site/mensuracao.md`).
 - [ ] Adicionar recurso de ligação (12) 99713-3583 com horário de atendimento.
 - [ ] Adicionar recurso de preço (R$ 299,90/mês por curso) e sitelinks por curso, depois das páginas.
-- [ ] Pausar as duas campanhas antigas e ativar as novas no mesmo dia.
+- [x] Pausar as duas campanhas antigas e ativar as novas no mesmo dia (18/10/2026).
 
 ## Observação técnica
 
